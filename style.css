@@ -12,7 +12,7 @@ body {
   justify-content: center;
 }
 .calculator {
-  background: black;
+  background: rgba(24, 58, 110, 0.933);
   border-radius: 50px;
   color: white;
   height: 800px;
